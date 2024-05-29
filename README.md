@@ -13,11 +13,11 @@ This project is a clone of the Razorpay website, created using HTML and Tailwind
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/razorpay-clone.git
-Usage
+##Usage
 Customize the HTML and Tailwind CSS as needed.
 
-Contributing
+##Contributing
 Contributions are welcome! Please open a pull request.
 
-License
+##License
 This project is licensed under the MIT License.
